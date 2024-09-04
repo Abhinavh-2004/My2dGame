@@ -1,1 +1,1 @@
-Welcome to the 2D RPG Game project! This project is a role-playing game (RPG) developed in Java, featuring a classic 2D top-down perspective. Players will explore a rich world, interact with characters, battle enemies, and complete quests. This README provides an overview of the project, setup instructions, and usage details.
+Welcome to the 2D RPG Game project! This project is a role-playing game (RPG) developed in Java, featuring a classic 2D top-down perspective. Players will explore a rich world, interact with characters, battle enemies, and complete quests. 
